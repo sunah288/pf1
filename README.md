@@ -1,7 +1,7 @@
 작품명 : simplydesign 디자인클론 코딩 
 
 
-원본사이트 : (https://simplydesign.kr/)
+원본사이트 : https://simplydesign.kr/
 
 # 프로젝트 제목
 
