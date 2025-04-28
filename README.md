@@ -2,6 +2,8 @@
 
 
 원본사이트 : https://simplydesign.kr/
+![image](https://github.com/user-attachments/assets/d18a5978-012a-4751-bde0-00d8c67b22ac)
+
 
 ## 프로젝트 제목
 반응형 웹 랜딩페이지
